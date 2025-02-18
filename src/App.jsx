@@ -27,9 +27,7 @@ function App() {
         "Kohle": 23.37,
         "Linhol - óleo de linhaça": 27.47,
 
-
         "Magnésio": 20.77,
-        
         "Nutra B": 24.72,
         "Nutra D3": 24.72,
         "Nutra C": 27.47,
@@ -41,9 +39,7 @@ function App() {
         "Nutra Kalio": 25.97,
         "Nutra Oxy": 26.47,
         "Nutralina": 29.12,
-
-        "Nutra Mint":12.00,
-
+        "Nutra Mint":12.38,
         "Nutrium": 28.57,
         "Nutrox - refil": 49.50,
         "Ômega 3": 0.00,
